@@ -1,8 +1,0 @@
-{
-  "arch": "ExampleNet",
-  "model_parameters": {
-    "valid": "valid.pkl",
-    "embedding": "embedding.pkl"
-  }
-}
-
