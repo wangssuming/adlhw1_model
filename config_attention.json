@@ -2,7 +2,7 @@
   "arch": "ExampleNet_Attention",
   "model_parameters": {
     "valid": "valid.pkl",
-    "embedding": "embedding.pkl"
+    "embedding": "./code/embedding.pkl"
   }
 }
 
